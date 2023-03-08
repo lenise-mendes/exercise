@@ -1,6 +1,6 @@
 # Github for Writers
 
-####  This is a pullrequest exemple
+####  This is a pullrequest example
 ```javascript
 `print("hello world");`
 ```
